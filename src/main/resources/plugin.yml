@@ -1,0 +1,15 @@
+name: LearnPaperHello
+version: ${version}
+main: dev.learnpaper.hello.LearnPaperHelloPlugin
+description: A tiny Paper hello world plugin for learning.
+author: Junxuan
+api-version: '26.1.2'
+commands:
+  hello:
+    description: Sends a hello message.
+    usage: /hello
+    permission: learnpaper.hello
+permissions:
+  learnpaper.hello:
+    description: Allows using /hello.
+    default: true

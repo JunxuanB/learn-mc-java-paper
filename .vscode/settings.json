@@ -1,0 +1,12 @@
+{
+  "gradle.java.home": "/Users/junxuanb/Projects/learn-mc-java-paper/.jdks/current/Contents/Home",
+  "java.import.gradle.java.home": "/Users/junxuanb/Projects/learn-mc-java-paper/.jdks/current/Contents/Home",
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-25",
+      "path": "/Users/junxuanb/Projects/learn-mc-java-paper/.jdks/current/Contents/Home",
+      "default": true
+    }
+  ],
+  "java.configuration.updateBuildConfiguration": "interactive"
+}

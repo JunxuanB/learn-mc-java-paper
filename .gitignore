@@ -1,0 +1,10 @@
+.gradle/
+.jdks/
+.tools/
+build/
+server/
+
+*.log
+*.tmp
+*.zip
+*.tar.gz
